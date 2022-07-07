@@ -9,7 +9,7 @@
     color: #fce138;
 }
 
-h2 {
+.hero h2 {
     display: inline-block;
     border-bottom: 4px solid;
     padding: 0 80px 15px 80px;
@@ -29,7 +29,7 @@ article {
 
 .secondary-content h3 {
     font-size: 25px;
-    margin 20px 0;
+    margin: 20px 0;
 }
 
 .secondary-content p {
